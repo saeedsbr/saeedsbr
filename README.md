@@ -221,7 +221,20 @@
 <br/>
 
 
-<!-- Row 5: Activity Tracker -->
+<!-- Row 3: Hostel Management -->
+### 🏫 &nbsp;Hostel Management System — *University Hostel Administration Platform*
+
+<a href="https://github.com/saeedsbr/Hostel-management-ssytem-nextjs">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=Hostel-management-ssytem-nextjs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Hostel Management System" />
+</a>
+
+<br/>
+
+> 🎓 A university hostel management system built with **Next.js + TypeScript** — streamlining student accommodation, room allocation, and hostel administration for a better campus experience.
+
+<br/>
+
+<!-- Row 4: Activity Tracker -->
 ### 🎯 &nbsp;Activity Tracker — *Daily Habit & Goal Tracker*
 
 <a href="https://github.com/saeedsbr/activity-tracker-backend">
