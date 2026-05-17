@@ -284,18 +284,30 @@
 
 <br/>
 
-<!-- ████████████████████████████ CONTRIBUTION INSIGHTS ████████████████████ -->
-
-## 📈 &nbsp;Contribution Insights
+## 🐍 &nbsp;Contribution Insights
 
 <div align="center">
 
-<!-- Contribution Snake Animation -->
+<!-- Snake eating contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my contributions" />
 </picture>
+
+<br/><br/>
+
+<!-- Contribution timeline - full width -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedsbr&theme=github_dark" width="98%" alt="Contribution Timeline" />
+
+<br/>
+
+<!-- Stats row - 3 cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saeedsbr&theme=github_dark" width="32%" alt="Repos Per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saeedsbr&theme=github_dark" width="32%" alt="Most Commit Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedsbr&theme=github_dark&utcOffset=5" width="32%" alt="Productive Time (PKT)" />
 
 </div>
 
