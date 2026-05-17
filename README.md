@@ -220,18 +220,6 @@
 
 <br/>
 
-<!-- Row 4: BuildCares -->
-### 🏛️ &nbsp;BuildCares — *Architect Portfolio*
-
-<a href="https://github.com/saeedsbr/buildcares-laravel">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=buildcares-laravel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="BuildCares Laravel" />
-</a>
-
-<br/>
-
-> 🏗️ A professional **portfolio website** built with **Laravel** for an architect client — showcasing projects, services, and design work in a clean, elegant presentation.
-
-<br/>
 
 <!-- Row 5: Activity Tracker -->
 ### 🎯 &nbsp;Activity Tracker — *Daily Habit & Goal Tracker*
@@ -284,21 +272,30 @@
 
 <br/>
 
-<!-- ████████████████████████████ PROFILE SUMMARY CARDS ████████████████████ -->
+<!-- ████████████████████████████ CONTRIBUTION INSIGHTS ████████████████████ -->
 
 ## 📈 &nbsp;Contribution Insights
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedsbr&theme=github_dark" width="100%" alt="Profile Details" />
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saeedsbr&theme=github_dark" width="32%" alt="Repos Per Language" />
+<!-- Rich Metrics Card -->
+<img src="https://metrics.lecoq.io/saeedsbr?template=classic&isocalendar=1&languages=1&activity=1&base=header,activity,community,repositories&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.sections=most-used&languages.colors=github&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&config.timezone=Asia%2FKarachi&config.padding=10" width="95%" alt="GitHub Metrics" />
+
+<br/>
+
+<!-- Stats Row -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saeedsbr&theme=github_dark" width="45%" alt="Stats" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saeedsbr&theme=github_dark" width="32%" alt="Most Commit Language" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedsbr&theme=github_dark&utcOffset=5" width="32%" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedsbr&theme=github_dark&utcOffset=5" width="45%" alt="Productive Time" />
 
 </div>
 
