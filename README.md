@@ -381,7 +381,7 @@
 
 <!-- Animated Text Footer -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=800&color=1f6feb&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=650&height=40&lines=Thanks+for+visiting+my+profile!+⭐+Star+my+repos+if+you+find+them+useful!;Always+open+to+collaboration+and+exciting+opportunities!+🚀;Let's+build+something+amazing+together!+💪" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=800&color=1f6feb&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=650&height=40&lines=Thanks+for+visiting+my+profile%21+Star+my+repos+if+useful%21;Always+open+to+collaboration+and+exciting+opportunities%21;Let%27s+build+something+amazing+together%21" alt="Footer Typing" />
 </a>
 
 <br/><br/>
