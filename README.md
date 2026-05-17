@@ -1,5 +1,5 @@
 <!-- ████████████████████████████████ HEADER ████████████████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d2137,60:0a3d6b,100:1f6feb&height=280&section=header&text=Muhammad%20Talha%20Saeed&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=⚡%20Full-Stack%20Architect%20%7C%20Java%20•%20Spring%20Boot%20•%20Next.js%20•%20Laravel&descSize=18&descColor=58a6ff&descAlignY=58&stroke=1f6feb&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d6b,100:1f6feb&height=280&section=header&text=Muhammad%20Talha%20Saeed&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Architect%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Next.js%20%7C%20Laravel&descSize=18&descColor=58a6ff&descAlignY=58" />
 
 <div align="center">
 
@@ -11,13 +11,13 @@
 <br/><br/>
 
 <!-- ── BADGES ROW ── -->
-<img src="https://komarev.com/ghpvc/?username=saeedsbr&style=for-the-badge&color=0a3d6b&label=👁️+PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=saeedsbr&style=for-the-badge&color=0a3d6b&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/saeedsbr?tab=followers"><img src="https://img.shields.io/github/followers/saeedsbr?style=for-the-badge&logo=github&logoColor=white&color=238636&labelColor=0d1117&label=Followers" alt="Followers" /></a>
 &nbsp;
-<a href="https://github.com/saeedsbr?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaeedsbr&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&color=1f6feb&labelColor=0d1117&label=Public+Repos" alt="Repos" /></a>
+<a href="https://github.com/saeedsbr?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-20%2B-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-🟢%20Available-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Status" />
+<img src="https://img.shields.io/badge/Open%20To%20Work-Available-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Status" />
 
 </div>
 
@@ -335,7 +335,7 @@
       <sub><b>Lines of Code 📝</b></sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Bugs%20Fixed-∞-f0883e?style=for-the-badge&labelColor=0d1117" /><br/>
+      <img src="https://img.shields.io/badge/Bugs%20Fixed-Infinite-f0883e?style=for-the-badge&labelColor=0d1117" /><br/>
       <sub><b>Bugs Crushed 🐛</b></sub>
     </td>
     <td align="center" width="200">
@@ -365,21 +365,21 @@
 <div align="center">
 
 <a href="mailto:italha.saeedsbr@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-italha.saeedsbr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Email-italha.saeedsbr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/saeedsbr">
-  <img src="https://img.shields.io/badge/🐙_GitHub-saeedsbr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-saeedsbr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/talha-saeed-0437a6329/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Talha_Saeed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Talha%20Saeed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://pms.sabthings.com">
-  <img src="https://img.shields.io/badge/🌐_Website-pms.sabthings.com-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-pms.sabthings.com-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" />
 </a>
 
 <br/><br/>
@@ -405,4 +405,4 @@
 </div>
 
 <!-- ████████████████████████████ FOOTER WAVE ████████████████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0a3d6b,100:0d1117&height=140&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0a3d6b,100:0d1117&height=140&section=footer&animation=fadeIn" />
