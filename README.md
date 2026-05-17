@@ -298,18 +298,6 @@
   <img src="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </picture>
 
-<br/>
-
-<!-- Rich Metrics Card -->
-<img src="https://metrics.lecoq.io/saeedsbr?template=classic&isocalendar=1&languages=1&activity=1&base=header,activity,community,repositories&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.sections=most-used&languages.colors=github&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&config.timezone=Asia%2FKarachi&config.padding=10" width="95%" alt="GitHub Metrics" />
-
-<br/>
-
-<!-- Stats Row -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saeedsbr&theme=github_dark" width="45%" alt="Stats" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedsbr&theme=github_dark&utcOffset=5" width="45%" alt="Productive Time" />
-
 </div>
 
 <br/>
