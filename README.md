@@ -126,22 +126,7 @@
 
 </div>
 
-<br/>
 
-<!-- ── SKILL PROGRESS BARS ── -->
-<div align="center">
-
-| Technology | Proficiency | Level |
-|:---|:---|:---|
-| **Java & Spring Boot** | `████████████████████` 95% | 🏆 Expert |
-| **Next.js / React / TypeScript** | `██████████████████░░` 88% | ⭐ Advanced |
-| **Laravel / PHP** | `█████████████████░░░` 82% | ✅ Proficient |
-| **C++ & OOP Design** | `███████████████████░` 90% | ⭐ Advanced |
-| **MySQL / MongoDB** | `████████████████░░░░` 80% | ✅ Proficient |
-| **Docker / DevOps** | `████████████░░░░░░░░` 60% | 📈 Growing |
-| **System Design** | `██████████████░░░░░░` 72% | 📈 Growing |
-
-</div>
 
 <br/>
 
