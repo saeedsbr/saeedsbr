@@ -267,11 +267,10 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
-│   🌍  GeoPulse v2.0         → Real-time location tracking + analytics  │
-│   💓  LifePulse Mobile       → React Native health & fitness app        │
-│   🏗️  BuildCares Platform    → Construction management SaaS             │
-│   📊  Activity Dashboard     → Analytics microservice overhaul          │
-│   🤖  AI Integration Layer   → LLM-powered smart recommendations       │
+│   🌐  GeoPulse             → Geopolitics news, history & analytics     │
+│   💡  LifePulse            → All-in-one personal life management app   │
+│   🏫  Hostel Management    → University student hostel admin system    │
+│   🎯  Activity Tracker     → Daily habit & life goal tracker           │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
