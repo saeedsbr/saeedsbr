@@ -191,7 +191,7 @@
 <div align="center">
 
 <!-- Row 1: GeoPulse -->
-### 🌍 &nbsp;GeoPulse — *Real-Time Location Intelligence Platform*
+### 🌐 &nbsp;GeoPulse — *Geopolitics Intelligence Platform*
 
 <a href="https://github.com/saeedsbr/geopulse-backend">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=geopulse-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="GeoPulse Backend" />
@@ -203,29 +203,25 @@
 
 <br/>
 
-> 🗺️ A full-stack location-based intelligence platform — **Java + Spring Boot** backend, **Next.js + TypeScript** frontend, real-time data processing and interactive mapping.
+> 🗞️ A geopolitics intelligence platform aggregating the **latest global news**, major **historical world events**, country **timelines**, and **geopolitical analytics** — all in one place.
 
 <br/>
 
 <!-- Row 2: Life Pulse -->
-### 💓 &nbsp;LifePulse — *Health & Wellness Ecosystem*
+### 💡 &nbsp;LifePulse — *All-in-One Life Management App*
 
 <a href="https://github.com/saeedsbr/life_pulse.app">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=life_pulse.app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Life Pulse App" />
 </a>
-&nbsp;
-<a href="https://github.com/saeedsbr/activity-tracker-backend">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=activity-tracker-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Activity Tracker Backend" />
-</a>
 
 <br/>
 
-> 🏃 Health tracking & wellness monitoring app — **Spring Boot** microservices, **JWT Auth**, activity analytics dashboard with **Next.js** frontend.
+> 🚗 An all-in-one personal life management app — control your **vehicle management**, **budget tracking**, and all your essential daily life activities from a **single unified platform**.
 
 <br/>
 
 <!-- Row 3: Family App -->
-### 👨‍👩‍👧‍👦 &nbsp;Family App — *Connected Family Management System*
+### 👨‍👩‍👧‍👦 &nbsp;Family App — *Unified Family Life Management*
 
 <a href="https://github.com/saeedsbr/family_app.spring-boot">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=family_app.spring-boot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Family App Backend" />
@@ -237,20 +233,37 @@
 
 <br/>
 
-> 🏠 Role-based family management system with **Spring Boot** + **Next.js**, secure auth, task tracking, and a real-time notification engine.
+> 🏠 The family edition of LifePulse — a shared **family life management platform** built with **Spring Boot** + **Next.js**, letting every family member manage shared activities, budgets, and responsibilities together.
 
 <br/>
 
-<!-- Row 4: Misc -->
-### 🏗️ &nbsp;More Projects
+<!-- Row 4: BuildCares -->
+### 🏛️ &nbsp;BuildCares — *Architect Portfolio*
 
 <a href="https://github.com/saeedsbr/buildcares-laravel">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=buildcares-laravel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="BuildCares Laravel" />
+</a>
+
+<br/>
+
+> 🏗️ A professional **portfolio website** built with **Laravel** for an architect client — showcasing projects, services, and design work in a clean, elegant presentation.
+
+<br/>
+
+<!-- Row 5: Activity Tracker -->
+### 🎯 &nbsp;Activity Tracker — *Daily Habit & Goal Tracker*
+
+<a href="https://github.com/saeedsbr/activity-tracker-backend">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=activity-tracker-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Activity Tracker Backend" />
 </a>
 &nbsp;
 <a href="https://github.com/saeedsbr/activity-tracker-next-js">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=activity-tracker-next-js&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Activity Tracker Frontend" />
 </a>
+
+<br/>
+
+> ✅ A personal **habit & daily goal tracking app** — set and track routines like waking up early, cutting sugar, exercising, and more. Build better habits one day at a time.
 
 </div>
 
