@@ -220,23 +220,6 @@
 
 <br/>
 
-<!-- Row 3: Family App -->
-### 👨‍👩‍👧‍👦 &nbsp;Family App — *Unified Family Life Management*
-
-<a href="https://github.com/saeedsbr/family_app.spring-boot">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=family_app.spring-boot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Family App Backend" />
-</a>
-&nbsp;
-<a href="https://github.com/saeedsbr/family_app.nextjs">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=saeedsbr&repo=family_app.nextjs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Family App Frontend" />
-</a>
-
-<br/>
-
-> 🏠 The family edition of LifePulse — a shared **family life management platform** built with **Spring Boot** + **Next.js**, letting every family member manage shared activities, budgets, and responsibilities together.
-
-<br/>
-
 <!-- Row 4: BuildCares -->
 ### 🏛️ &nbsp;BuildCares — *Architect Portfolio*
 
