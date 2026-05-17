@@ -301,16 +301,22 @@
 
 <br/>
 
-<!-- ████████████████████████████ CONTRIBUTION SNAKE ████████████████████████ -->
+<!-- ████████████████████████████ PROFILE SUMMARY CARDS ████████████████████ -->
 
-## 🐍 &nbsp;Watch My Contributions Get Eaten
+## 📈 &nbsp;Contribution Insights
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/saeedsbr/saeedsbr/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-  </picture>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saeedsbr&theme=github_dark" width="100%" alt="Profile Details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saeedsbr&theme=github_dark" width="32%" alt="Repos Per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saeedsbr&theme=github_dark" width="32%" alt="Most Commit Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedsbr&theme=github_dark&utcOffset=5" width="32%" alt="Productive Time" />
+
 </div>
 
 <br/>
