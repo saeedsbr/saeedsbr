@@ -76,7 +76,7 @@ fun_fact: I debug with coffee ☕ and deploy with confidence 🚀
 
 ### 🗄️ Database & Tools
 <p>
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,linux,vscode,idea&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,linux,vscode,idea&theme=dark" alt="Tools" /></a>
 </p>
 
 </div>
